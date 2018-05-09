@@ -50,6 +50,8 @@ To kill it, just run `kill -9 <pID>`
 
 ### Future Plans
 
+* Write tests. Should have been written with dev but I was in hurry to put things together.
+
 * Refactor utilities so that different functions are in their separate package. Right now it is bit hotchpoch.
 
 * Built support for 2FA.
