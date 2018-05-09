@@ -1,0 +1,6 @@
+.idea
+.DS_Store
+config.development.json
+config.production.json
+.env
+main
